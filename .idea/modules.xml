@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Otodidak/Otodidak.iml" filepath="$PROJECT_DIR$/Otodidak/Otodidak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pemrograman Lanjut Privat/Otodidak/Otodidak.iml" filepath="$PROJECT_DIR$/../Pemrograman Lanjut Privat/Otodidak/Otodidak.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pemrograman Lanjut.iml" filepath="$PROJECT_DIR$/.idea/Pemrograman Lanjut.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praktikum/Praktikum.iml" filepath="$PROJECT_DIR$/Praktikum/Praktikum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas.iml" filepath="$PROJECT_DIR$/Tugas/Tugas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Praktikum/Tugas-Praktikum/Tugas-Praktikum.iml" filepath="$PROJECT_DIR$/Praktikum/Tugas-Praktikum/Tugas-Praktikum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byTheory/byTheory.iml" filepath="$PROJECT_DIR$/byTheory/byTheory.iml" />
     </modules>
   </component>
 </project>
